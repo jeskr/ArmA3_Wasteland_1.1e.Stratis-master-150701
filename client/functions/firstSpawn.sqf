@@ -15,7 +15,7 @@ setTerrainGrid 50;
 
 [] execVM "addons\welcomeMessage\disclaimer.sqf";
 [] execVM "addons\welcomeMessage\welcomeMessage.sqf";
-[] execVM "addons\TOParmaInfo\loadTOParmaInfo.sqf";
+//[] execVM "addons\TOParmaInfo\loadTOParmaInfo.sqf";
  
 player addEventHandler ["Take",
 {
