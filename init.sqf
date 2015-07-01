@@ -39,7 +39,7 @@ if (!isDedicated) then
 	{
 		if (hasInterface) then // Normal player
 		{
-			9999 cutText ["Welcome to GamersInc. A3Wasteland, please wait while your client initializes.", "BLACK", 0.01];
+			9999 cutText ["Welcome to Zombro A3Wasteland, please wait while your client initializes.", "BLACK", 0.01];
 
 			waitUntil {!isNull player};
 			removeAllWeapons player;

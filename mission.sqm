@@ -128,8 +128,8 @@ class Mission
 	randomSeed=7826573;
 	class Intel
 	{
-		briefingName="A3Wasteland Stratis v1.1e - ts.gamersinc.co.uk";
-		overviewText="A3Wasteland Stratis v1.1e - ts.gamersinc.co.uk";
+		briefingName="A3Wasteland Stratis v1.1e - TeamSpeak 188.228.38.201";
+		overviewText="A3Wasteland Stratis v1.1e - TeamSpeak 188.228.38.201";
 		resistanceWest=0;
 		timeOfChanges=3e+038;
 		startWeather=0;
