@@ -36,7 +36,7 @@
 	</Package>
 	<Package name="WelcomeMessage">
 		<Key ID="STR_WL_WelcomeToWasteland">
-			<English>&lt;t color='#FF8000' size='2.5' &gt;GamersInc. Wasteland 1.1e &lt;/t&gt;</English>
+			<English>&lt;t color='#FF8000' size='2.5' &gt;Zombro Wasteland 1.1e &lt;/t&gt;</English>
 		</Key>
 		<Key ID="STR_WL_YouAreInTeam">
 			<English>&lt;t color='#FFFFFF' size='1' &gt;* You are on &lt;img size="1.5" image="%1"/&gt; &lt;t color="%2"&gt; %3 &lt; /t &gt;&lt; /t &gt; team. &lt;&gt;&lt;t color='#FFFFFF' size='1' &gt;&lt;br/&gt;</English>
