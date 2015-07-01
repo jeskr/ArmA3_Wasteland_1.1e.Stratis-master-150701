@@ -38,7 +38,7 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
-<br/> [Added] Slit Throat ( live and wounded players )
+<br/> [Removed] Slit Throat
 <br/> [Updated] Supporters*
 <br/> [Upgraded] Backend to MySQL for more server performance
 <br/> [Added] 2 New Camo's

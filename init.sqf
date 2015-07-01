@@ -82,6 +82,7 @@ if (isServer) then
 [] execVM "addons\HvT\HvT.sqf"; // High Value Target
 [] execVM "addons\TearGas\tear_gas.sqf"; // teargass bitches !
 [] execVM "addons\APOC_Airdrop_Assistance\init.sqf";
+[] execVM "addons\scripts\intro.sqf";	// Welcome intro
 if (isServer) then {call compile preprocessFile "mapconfig\structures\initBuildings.sqf";}; // GID Positioning System
 
 //Client Announcements
