@@ -13,7 +13,7 @@ APOC_AA_VehOptions =
 	["AFV-4 Gorgon", "I_APC_Wheeled_03_cannon_F", 60000, "vehicle"],
 	["ZSU-39 Tigris AA","O_APC_Tracked_02_AA_F",70000,"vehicle",2700],
 	["T-100 Varsuk","O_MBT_02_cannon_F",100000,"vehicle",2700],
-	["MH-900 Civilian","C_Heli_light_01_digital_F",15000,"vehicle"],
+	["MH-900 Civilian","C_Heli_light_01_digital_F",5000,"vehicle"],
 	["UH-80 Ghost Hawk", "B_Heli_Transport_01_camo_F", 45000, "vehicle"],
 	["AH-99 Blackfoot", "B_Heli_Attack_01_F", 100000, "vehicle"]
 		

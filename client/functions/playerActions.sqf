@@ -21,6 +21,11 @@
 //	["<img image='client\icons\health.paa'/> Heal", "addons\scripts\healself.sqf", [], 1, false, false, "", "(damage player > 0.05) && ('FirstAidKit' in (items player))"],
 	
 	["<img image='client\icons\repair.paa'/> Salvage", "client\actions\salvage.sqf", [], 1.1, false, false, "", "!isNull cursorTarget && !alive cursorTarget && {cursorTarget isKindOf 'AllVehicles' && !(cursorTarget isKindOf 'Man') && player distance cursorTarget <= (sizeOf typeOf cursorTarget / 3) max 2}"],
+
+	["<t color='#FFE496'><img image='client\icons\gunner.paa'/> Mark your stuff on the map</t>", "addons\scripts\markOwned.sqf", [], -95,false,false,"","{_x in ['ItemGPS','B_UavTerminal','O_UavTerminal','I_UavTerminal']} count assignedItems player > 0"],
+	["<t color='#FFE496'><img image='client\icons\r3f_lock.paa'/> Open Base Menu</t>", "addons\BoS\BoS_selectMenu.sqf", [cursorTarget], -97, false, false, "", "(alive cursorTarget) and (vehicle player == player) and (cursortarget iskindof 'Land_Device_assembled_F') and (player distance cursortarget) < 5"],	
+	["<t color='#FFE496'><img image='client\icons\take.paa'/> Hack Base</t>", "addons\BoS\BoS_hackBase.sqf", [cursorTarget], -97, false, false, "", "(alive cursorTarget) and ('MineDetector' in (items player)) and (cursorTarget getVariable ['ownerUID',''] != getPlayerUID player) and (vehicle player == player) and (cursortarget iskindof 'Land_Device_assembled_F') and (player distance cursortarget) < 5"],	
+
 	
 	["<img image='client\icons\cancel.paa'/> Hide Body", "client\actions\hide.sqf", [], 1.1, false, false, "", "!isNull cursorTarget && !alive cursorTarget && {cursorTarget isKindOf 'AllVehicles' && (cursorTarget isKindOf 'Man') && player distance cursorTarget <= (sizeOf typeOf cursorTarget / 3) max 2}"],
 	

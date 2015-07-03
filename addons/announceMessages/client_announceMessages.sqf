@@ -17,6 +17,7 @@ _MessagesToAnnounceStringArray =
 [
 ["This server supports JSRS Dragonfyre, Blastcore Phoenix, VTS Weapon Resting, Fullscreen NVGs, Shacktack Fireteam HUD and Midrange Texture replacement Pack Client mods.", 2100], 
 ["Looking for an admin? Contact us on teamspeak - TeamSpeak 188.228.38.201", 600],
+["Base locker added for Base building", 500],
 //["Spawn with the gear YOU WANT EVERYTIME ! Enquire about our supporter loadouts on Teamspeak !(Copper($10), Bronze($20) ,Silver($30) ,Gold($50) and Platinum($75)", 1500], 
 //["This server is monitored 24/7 by admins, all actions are logged", 1000], 
 ["This server auto restarts every 3 hours to ensure optimal client performance !", 3600]

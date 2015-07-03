@@ -8,8 +8,8 @@ forceRotorLibSimulation = 0; // if you set this to 1, you deny freedom of choice
 weaponPool = 0;
 corpseManagerMode = 1;
 corpseLimit = 15;
-corpseRemovalMinTime = 5*60;
-corpseRemovalMaxTime = 10*60;
+corpseRemovalMinTime = 15*60;
+corpseRemovalMaxTime = 30*60;
 wreckManagerMode = 1;
 wreckRemovalMinTime = 5*60;
 wreckRemovalMaxTime = 10*60;
@@ -59,6 +59,9 @@ pictureMap = "mapConfig\Loading.jpg";
 #include "addons\outlw_magRepack\MagRepack_config.hpp"
 #include "client\systems\hud\dialog\downloadData.hpp"
 #include "addons\TOParmaInfo\dialog\TOParmaInfo_dialog.hpp"
+#include "addons\BoS\dialog\BoS_mainMenu.hpp"
+#include "addons\AF_Keypad\AF_KP_defines.hpp"
+#include "addons\AF_Keypad\AF_KP_dialogs.hpp"
 
 class RscTitles
 {

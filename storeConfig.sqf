@@ -632,6 +632,8 @@ allStoreGear = compileFinal str (call headArray + call uniformArray + call vestA
 
 genObjectsArray = compileFinal str
 [
+//	["Base Re-Locker", "Land_Portable_generator_F", 100000, "object"],  //Cael817, SNAFU,Used for base operations <-- Non destroyable
+	["Base Re-Locker", "Land_Device_assembled_F", 25000, "object"],  //Cael817, SNAFU,Used for base operations <-- Destroyable
 	["Camp Fire", "Land_FirePlace_F", 100, "object"],
 	["Small Platform", "Land_GH_Platform_F", 500, "object"],
 //	["Basketball Court", "Land_BC_Court_F", 1000, "object"],

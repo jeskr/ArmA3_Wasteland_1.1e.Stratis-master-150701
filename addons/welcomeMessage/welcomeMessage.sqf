@@ -19,7 +19,7 @@ _text = "
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Bought, Mission and Airdrop vehicles automatically save between restarts</t><br />
 <br />
-<t align='center'><t shadow= 1 shadowColor='#000000'>Base objects will save for 7 days.</t><br />
+<t align='center'><t shadow= 1 shadowColor='#000000'>Base objects will save for 7 days. Otherwise use Base locker</t><br />
 <br />
 <t align='center'><t shadow= 1 shadowColor='#000000'>Vehicle repair or re-arm, speak to the vehicle store owner</t><br />
 <br />

@@ -38,6 +38,7 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Added] Base relocker (It is hackable and destroyable)
 <br/> [Removed] Slit Throat
 <br/> [Updated] Supporters*
 <br/> [Upgraded] Backend to MySQL for more server performance
