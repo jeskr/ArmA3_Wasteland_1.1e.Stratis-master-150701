@@ -6115,7 +6115,7 @@ class Mission
 			offsetY=2.4000001;
 			id=555;
 			side="EMPTY";
-			vehicle="O_Heli_Light_02_v2_F";
+			vehicle="O_Heli_Light_02_unarmed_F";
 			skill=0.2;
 		};
 		class Item398
