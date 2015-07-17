@@ -72,7 +72,7 @@
 			_player forceAddUniform "U_BG_Guerilla2_1";
 			_player addMagazine "30Rnd_556x45_Stanag";
 			_player addMagazine "30Rnd_556x45_Stanag";
-			_player addWeapon "arifle_Mk20_F";
+			_player addWeapon "arifle_Mk20_MRCO_pointer_F";
 //			_player addPrimaryWeaponItem "optic_aco_smg";
 //			_player addItem "HandGrenade";
 //			_player addItem "HandGrenade";
@@ -101,7 +101,7 @@
 //			_player addItemToVest "MineDetector";
 //			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
 //			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
-			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
+//			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
 			_player addMagazine "6Rnd_45ACP_Cylinder";
 			_player addMagazine "6Rnd_45ACP_Cylinder";
 			_player addMagazine "6Rnd_45ACP_Cylinder";

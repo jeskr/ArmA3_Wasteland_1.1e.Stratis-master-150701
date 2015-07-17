@@ -11,7 +11,7 @@ client_firstSpawn = true;
 //set client side view distance on spawn
 setViewDistance 1200;
 setObjectViewDistance 900;
-setTerrainGrid 50;
+setTerrainGrid 25; //NO GRASS DISABLED
 
 [] execVM "addons\welcomeMessage\disclaimer.sqf";
 [] execVM "addons\welcomeMessage\welcomeMessage.sqf";

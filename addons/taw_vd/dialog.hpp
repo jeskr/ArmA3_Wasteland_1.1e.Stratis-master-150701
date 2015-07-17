@@ -452,7 +452,7 @@ class TAW_VD
 		class VD_terr_none : TAWVD_activeText
 		{
 			idc = -1;
-			text = "None";
+			text = "Low";
 			action = "['none'] call TAWVD_fnc_onTerrainChange;";
 			sizeEx = 0.04;
 			
