@@ -870,18 +870,44 @@ colorsArray = compileFinal str
 	[ // Main colors
 		"All",
 		[
-			["Black", "#(rgb,1,1,1)color(0.01,0.01,0.01,1)"], // #(argb,8,8,3)color(0.1,0.1,0.1,0.1)
-			["Grey", "#(rgb,1,1,1)color(0.15,0.151,0.152,1)"], // #(argb,8,8,3)color(0.5,0.51,0.512,0.3)
-			["White", "#(rgb,1,1,1)color(0.75,0.75,0.75,1)"], // #(argb,8,8,3)color(1,1,1,0.5)
-			["Dark Blue", "#(rgb,1,1,1)color(0,0.05,0.15,1)"], // #(argb,8,8,3)color(0,0.3,0.6,0.05)
-			["Blue", "#(rgb,1,1,1)color(0,0.03,0.5,1)"], // #(argb,8,8,3)color(0,0.2,1,0.75)
-			["Teal", "#(rgb,1,1,1)color(0,0.3,0.3,1)"], // #(argb,8,8,3)color(0,1,1,0.15)
-			["Green", "#(rgb,1,1,1)color(0,0.5,0,1)"], // #(argb,8,8,3)color(0,1,0,0.15)
-			["Yellow", "#(rgb,1,1,1)color(0.5,0.4,0,1)"], // #(argb,8,8,3)color(1,0.8,0,0.4)
-			["Orange", "#(rgb,1,1,1)color(0.4,0.09,0,1)"], // #(argb,8,8,3)color(1,0.5,0,0.4)
-			["Red", "#(rgb,1,1,1)color(0.45,0.005,0,1)"], // #(argb,8,8,3)color(1,0.1,0,0.3)
-			["Pink", "#(rgb,1,1,1)color(0.5,0.03,0.3,1)"], // #(argb,8,8,3)color(1,0.06,0.6,0.5)
-			["Purple", "#(rgb,1,1,1)color(0.1,0,0.3,1)"] // #(argb,8,8,3)color(0.8,0,1,0.1)
+			["Bloodshot", _texDir + "bloodshot.paa"],
+			["Carbon", _texDir + "carbon.paa"],
+			["Digital", _texDir + "digi.paa"],
+			["Digital Woodland", _texDir + "digi_wood.paa"],
+			["Hello Kitty", _texDir + "hellokitty.paa"],
+			["ISIS", _texDir + "isis.paa"],
+			["Leopard", _texDir + "leopard.paa"],
+			["Nazi", _texDir + "nazi.paa"],
+			["Orange Camo", _texDir + "camo_orange.paa"],
+			["Pink Camo", _texDir + "camo_pink.paa"],
+			["Red Camo", _texDir + "camo_red.paa"],
+			["Rusty", _texDir + "rusty.paa"],
+			["Swamp", _texDir + "swamp.paa"],
+			["Urban", _texDir + "urban.paa"],
+			["Woodland", _texDir + "woodland.paa"],
+			["Woodland Dark", _texDir + "wooddark.paa"],
+			["Confederate", _texDir + "confederate.jpg"],
+			["Doritos", _texDir + "doritos.paa"],
+			["Hippie", _texDir + "hippie.paa"],
+			["Murica", _texDir + "murica.jpg"],
+			["Pride", _texDir + "pride.paa"],
+			["Rainbow", _texDir + "rainbow.jpg"],
+			["Color Tunnel", _texDir + "top-lgbt-1.jpg"],
+			["Skulls", _texDir + "top-skulls-1.jpg"],
+			["Weed", _texDir + "top-weed-1.jpg"],
+			["Unionjack", _texDir + "unionjack.jpg"],
+			["Black", _color + "(0.01,0.01,0.01,1)"], // #(argb,8,8,3)color(0.1,0.1,0.1,0.1)
+			["Gray", _color + "(0.15,0.151,0.152,1)"], // #(argb,8,8,3)color(0.5,0.51,0.512,0.3)
+			["White", _color + "(0.75,0.75,0.75,1)"], // #(argb,8,8,3)color(1,1,1,0.5)
+			["Dark Blue", _color + "(0,0.05,0.15,1)"], // #(argb,8,8,3)color(0,0.3,0.6,0.05)
+			["Blue", _color + "(0,0.03,0.5,1)"], // #(argb,8,8,3)color(0,0.2,1,0.75)
+			["Teal", _color + "(0,0.3,0.3,1)"], // #(argb,8,8,3)color(0,1,1,0.15)
+			["Green", _color + "(0,0.5,0,1)"], // #(argb,8,8,3)color(0,1,0,0.15)
+			["Yellow", _color + "(0.5,0.4,0,1)"], // #(argb,8,8,3)color(1,0.8,0,0.4)
+			["Orange", _color + "(0.4,0.09,0,1)"], // #(argb,8,8,3)color(1,0.5,0,0.4)
+			["Red", _color + "(0.45,0.005,0,1)"], // #(argb,8,8,3)color(1,0.1,0,0.3)
+			["Pink", _color + "(0.5,0.03,0.3,1)"], // #(argb,8,8,3)color(1,0.06,0.6,0.5)
+			["Purple", _color + "(0.1,0,0.3,1)"] // #(argb,8,8,3)color(0.8,0,1,0.1)
 
 		]
 	],	

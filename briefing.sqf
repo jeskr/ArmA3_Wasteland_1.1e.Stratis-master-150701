@@ -22,7 +22,7 @@ player createDiaryRecord ["serverrules",
 <br/> 2.   NO Glitching or Combat logging is allowed it will cause punishment up to permanent ban.
 <br/> 3.   NO blocking or building around Stores or ATM´s is allowed it will cause punishment up to permanent ban.
 <br/> 4.   NO VOIP IN GLOBAL. Use the channels or Teamspeak!
-<br/> 5.   ONLY ENGLISH or DANISH CHATING IS ALLOWED IN GLOBAL.
+<br/> 5.   ONLY ENGLISH or DANISH CHATTING IS ALLOWED IN GLOBAL.
 <br/> 6.   As Independant NO VOIP IN SIDECHAT is not allowed (Writing is allowed). Use the group channels or Teamspeak!
 <br/> 7.   Using or spamming with loud\long custom sound commands will cause punishment up to permanent ban.
 <br/> 8.   Keep bad language to a minimum. If you have a problem with another player, take it to direct.
@@ -30,7 +30,7 @@ player createDiaryRecord ["serverrules",
 <br/> 10.  Team killing when you are in BLUFOR or OPFOR is forbidden and punishable. Play as Independent if you want to be free for all.
 <br/> 11.  Respect other players.
 <br/> 12.  Respect the administrators.
-<br/> 13.  In the safezones around generalstores stealing, running over players and destroying/stealing vehicles is NOT allowed.
+<br/> 13.  Camping is allowed everywhere. This is a combat game....
 "
 ]];
 
@@ -38,12 +38,19 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> --------------------------------------------------------------
+<br/> [Added] New Vehicle Textures
+<br/> [Removed] Safezones removed
+<br/> [Added] Airdropped vehicles are locked by default
+<br/> [Updated] Wounded Player damage increased
+<br/> [Updated] Sunken treasure reward fixed
+<br/> [Added] Hackers mission (Reduced money taken from players ATM)
+<br/> [Added] Arma 3 v1.48 Optimizations
+<br/> --------------------------------------------------------------
 <br/> [Added] Base relocker (It is hackable and destroyable)
 <br/> [Removed] Slit Throat
-<br/> [Updated] Supporters*
 <br/> [Upgraded] Backend to MySQL for more server performance
 <br/> [Added] 2 New Camo's
-<br/> [Added] Custom Supporter Loadouts
 <br/> [Updated] Ol-Keiros was updated to GID
 <br/> [Added] Mission Rewards Randomized even more
 <br/> [Added] Spawn Beacon Tracker ( use Mine Detector )
@@ -64,9 +71,9 @@ player createDiaryRecord ["changelog",
 <br/> [Fixed] Players now spawn with loaded guns
 <br/> [Added] Owned vehicles will be locked on restarts
 <br/> [Added] Slit Throat ( live and wounded players )
-<br/> [Added] Base objects only save for 5 days
+<br/> [Added] Base objects only save for 7 days
 <br/> [Added] Beacon Saving
-<br/> [Added] Players can only deploy 1 beacon
+<br/> [Added] Players can only deploy 2 beacons
 <br/> [Added] Limited Thermals
 <br/> [Added] UAV Control Restrictions (Owner)
 <br/> [Added] Town spawn Cooldown

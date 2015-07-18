@@ -91,6 +91,7 @@ _object = switch (_type) do {
 			_object call fn_manualVehicleSave;
 		};
 		_object attachTo [_heli, [0,0,-5]]; //Attach Object to the heli
+		_object lock 2; // Spawn vehicles in locked
 		_object
 	};
 	case "supply":

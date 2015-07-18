@@ -82,7 +82,7 @@ if (isServer) then
 [] execVM "addons\JumpMF\init.sqf";
 [] execVM "addons\outlw_magRepack\MagRepack_init_sv.sqf"; // Repack your near empty clips
 [] execVM "addons\laptop\init.sqf";		 // hack Laptop mission addon
-[] execVM "addons\safezone\safezone.sqf"; //safezones
+//[] execVM "addons\safezone\safezone.sqf"; //safezones temporarily disabled
 [] execVM "addons\vactions\functions.sqf"; //vehicle actions
 [] execVM "addons\HvT\HvT.sqf"; // High Value Target
 [] execVM "addons\AF_Keypad\AF_KP_vars.sqf";			// Keypad for base locking

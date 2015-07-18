@@ -15,7 +15,7 @@ _messages = [
 	["Jump or Open / Cut Parachute", "by using the V key."],
 	["Mag Repack", "by pressing Left CTRL+R keys."],
 	["Service Vehicle", "Enter any store to service your vehicle (Refuel-Repair-Rearm)."],
-	["Safe-zones", "All general stores have a safe zone (A beep sounds entering/leaving)."],
+//	["Safe-zones", "All general stores have a safe zone (A beep sounds entering/leaving)."],
 	["Locking Base items", "Locking is disabled around stores in a 100m. radius"],
 //	["Base building", "Use Baselocker for base management."],
 	["Air Drops", "Use airdrop for fast delivery. Money will be deducted from your bank account"],

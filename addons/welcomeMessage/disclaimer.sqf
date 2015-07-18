@@ -7,7 +7,8 @@
 	4. No blocking or building around Stores or ATM´s is allowed. <br /> <br />
 	5. As Independant NO VOIP IN SIDECHAT is not allowed (Writing is allowed). Use the group channels or Teamspeak! <br /> <br />
 	6. Only english or danish chat is allowed in global. <br /> <br />
-	7. In the safezones around generalstores stealing, running over players and destroying/stealing vehicles is NOT allowed. <br /> <br />
+	7. Camping is allowed everywhere. This is a combat game.... <br /> <br />
 	8. Bank Balances are non-refundable. <br /> <br />
 	9. Please respect other players and admins!
+	PRESS M IN GAME TO SEE SERVER RULES
  </t>", "SERVER RULES"] spawn BIS_fnc_guiMessage;
