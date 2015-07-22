@@ -14,7 +14,7 @@ _messages = [
 	["Holster your weapon", "by using the H key."],
 	["Jump or Open / Cut Parachute", "by using the V key."],
 	["Mag Repack", "by pressing Left CTRL+R keys."],
-	["Service Vehicle", "Enter any store to service your vehicle (Refuel-Repair-Rearm)."],
+	["Service Vehicle", "Enter vehicle store to service your vehicle (Refuel-Repair-Rearm)."],
 //	["Safe-zones", "All general stores have a safe zone (A beep sounds entering/leaving)."],
 	["Locking Base items", "Locking is disabled around stores in a 100m. radius"],
 //	["Base building", "Use Baselocker for base management."],

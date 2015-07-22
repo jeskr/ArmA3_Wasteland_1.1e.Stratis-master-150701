@@ -30,7 +30,8 @@ player createDiaryRecord ["serverrules",
 <br/> 10.  Team killing when you are in BLUFOR or OPFOR is forbidden and punishable. Play as Independent if you want to be free for all.
 <br/> 11.  Respect other players.
 <br/> 12.  Respect the administrators.
-<br/> 13.  Camping is allowed everywhere. This is a combat game....
+<br/> 13.  Camping stores is allowed. Wasteland is a HARSH survival map. Learn to deal with it and go on your way.
+<br/> 14.  Bank Balances are non-refundable.
 "
 ]];
 
@@ -38,13 +39,16 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Removed] Auto spotted Player tags
+<br/> [Removed] Mine tags (Still visible on map)
+<br/> [Added] Slit Throat ( live and wounded players )
 <br/> --------------------------------------------------------------
 <br/> [Added] New Vehicle Textures
 <br/> [Removed] Safezones removed
 <br/> [Added] Airdropped vehicles are locked by default
 <br/> [Updated] Wounded Player damage increased
 <br/> [Updated] Sunken treasure reward fixed
-<br/> [Added] Hackers mission (Reduced money taken from players ATM)
+<br/> [Added] Hackers mission (Reduced money taken from players ATM to 1.5%)
 <br/> [Added] Arma 3 v1.48 Optimizations
 <br/> --------------------------------------------------------------
 <br/> [Added] Base relocker (It is hackable and destroyable)
