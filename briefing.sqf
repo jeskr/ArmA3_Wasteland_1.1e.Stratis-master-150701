@@ -39,6 +39,16 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Added] Group Size limited to 6 players
+<br/> [Fixed] Hackers missions gives 0.5% more
+<br/> [Added] Classes gear added
+<br/> [Fixed] Mission Hostile Jet 50% more rare
+<br/> [Added] Beacon Delete if Max reached
+<br/> [Removed] Agia Gunstore ATM
+<br/> [Added] 2 more medics as Indie
+<br/> [Fixed] Price Adjustments
+<br/> [Fixed] Mag Repack fix
+<br/> --------------------------------------------------------------
 <br/> [Removed] Auto spotted Player tags
 <br/> [Removed] Mine tags (Still visible on map)
 <br/> [Added] Slit Throat ( live and wounded players )
