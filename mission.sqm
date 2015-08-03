@@ -1767,7 +1767,7 @@ class Mission
 					position[]={3770.2227,13.12035,7941.0347};
 					id=149;
 					side="GUER";
-					vehicle="I_engineer_F";
+					vehicle="I_medic_F";
 					player="PLAY CDG";
 					skill=0.60000002;
 					description="Engineer";
@@ -1787,7 +1787,7 @@ class Mission
 					position[]={3767.7363,12.826657,7939.8076};
 					id=151;
 					side="GUER";
-					vehicle="I_diver_F";
+					vehicle="I_medic_F";
 					player="PLAY CDG";
 					skill=0.60000002;
 					description="Diver";
@@ -1808,7 +1808,7 @@ class Mission
 					id=153;
 					side="GUER";
 					vehicle="I_engineer_F";
-					player="PLAYER COMMANDER";
+					player="PLAYER CDG";
 					skill=0.60000002;
 					description="Engineer";
 				};
