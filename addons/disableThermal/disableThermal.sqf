@@ -6,7 +6,7 @@
 
 
 _layer = 85125; 
-_launchers =["launch_I_Titan_short_F","launch_O_Titan_short_F","launch_B_Titan_short_F","launch_Titan_short_F","launch_Titan_F","launch_O_Titan_F","launch_I_Titan_F","launch_B_Titan_F","Laserdesignator","B_HMG_01_high_F","B_static_AA_F","B_static_AT_F","B_GMG_01_F"];  // launcher array
+_launchers =["launch_I_Titan_short_F","launch_O_Titan_short_F","launch_B_Titan_short_F","launch_Titan_short_F","launch_Titan_F","launch_O_Titan_F","launch_I_Titan_F","launch_B_Titan_F","Laserdesignator","Laserdesignator_02","Laserdesignator_03","B_HMG_01_high_F","B_static_AA_F","B_static_AT_F","B_GMG_01_F"];  // launcher array
 
 
 while {true} do 
