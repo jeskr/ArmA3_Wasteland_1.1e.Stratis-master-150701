@@ -1,4 +1,4 @@
-
+/* // Agia Gunstore ATM
 _pos = [2436.406494,5675.458984,-0.378342];
 _object = createVehicle ["Land_Atm_01_F", _pos, [], 0, "CAN_COLLIDE"];
 _object setDir 109.3;
@@ -7,6 +7,7 @@ _object setVariable ["R3F_LOG_disabled", true, true];
 _object enableSimulation false;
 _object allowDamage false;
 
+*/
 _pos = [3016.760254,6011.820801,0.199999];
 _object = createVehicle ["Land_Atm_01_F", _pos, [], 0, "CAN_COLLIDE"];
 _object setDir 265.992;
