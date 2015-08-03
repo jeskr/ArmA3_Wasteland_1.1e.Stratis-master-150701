@@ -24,8 +24,8 @@
 			removeBackpack _player;
 			removeAllWeapons _player;
 			_player addBackpack "B_FieldPack_blk";
-//			_player addMagazine "1Rnd_HE_Grenade_shell";
-//			_player addMagazine "1Rnd_HE_Grenade_shell";
+			_player addMagazine "1Rnd_HE_Grenade_shell";
+			_player addMagazine "1Rnd_HE_Grenade_shell";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addWeapon "arifle_MX_GL_Black_F";
@@ -117,21 +117,21 @@
 			_player addVest "V_Chestrig_khk";
 			_player addBackpack "B_FieldPack_cbr";
 			_player forceAddUniform "U_OrestesBody";
-//			_player addItemtoBackpack "DemoCharge_Remote_Mag";
 			_player addItemtoBackpack "DemoCharge_Remote_Mag";
-//			_player addItem "MiniGrenade";
+			_player addItemtoBackpack "DemoCharge_Remote_Mag";
+			_player addItem "MiniGrenade";
 			_player addItem "MiniGrenade";
 			_player addItem "FirstAidKit";
 			_player addItem "FirstAidKit";
 			_player addItemtoBackpack "APERSMine_Range_Mag";
-//			_player addItemtoBackpack "APERSMine_Range_Mag";
+			_player addItemtoBackpack "APERSMine_Range_Mag";
 			_player addItemtoBackpack "ATMine_Range_Mag";
 			_player addItemtoBackpack "SLAMDirectionalMine_Wire_Mag";
 //			_player addItemtoBackpack "SLAMDirectionalMine_Wire_Mag";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addWeapon "arifle_MXC_F";
-//			_player addPrimaryWeaponItem "optic_Holosight";
+			_player addPrimaryWeaponItem "optic_Holosight";
 			};
 			
 			
@@ -144,15 +144,15 @@
 			_player forceAddUniform "U_B_PilotCoveralls";
 			_player addItem "SmokeShellYellow";
 			_player addItem "SmokeShellYellow";
-//			_player addItem "SmokeShellYellow";
-//			_player addItem "SmokeShellYellow";
+			_player addItem "SmokeShellYellow";
+			_player addItem "SmokeShellYellow";
 			_player addItem "FirstAidKit";
 			_player addItem "FirstAidKit";
 			_player addMagazine "30Rnd_556x45_Stanag";
 			_player addMagazine "30Rnd_556x45_Stanag";
 			_player addWeapon "arifle_Mk20_plain_F";
-//			_player addPrimaryWeaponItem "optic_aco_smg";
-//			_player addPrimaryWeaponItem "bipod_01_F_blk";
+			_player addPrimaryWeaponItem "optic_aco_smg";
+			_player addPrimaryWeaponItem "bipod_01_F_blk";
 			_player addHeadgear "H_PilotHelmetFighter_B";
 			};
 			
