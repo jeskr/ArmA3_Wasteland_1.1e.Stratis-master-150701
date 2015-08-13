@@ -80,7 +80,7 @@ if (isServer) then
 [] execVM "addons\proving_ground\init.sqf";
 [] execVM "addons\scripts\DynamicWeatherEffects.sqf";
 [] execVM "addons\JumpMF\init.sqf";
-[] execVM "addons\outlw_magRepack\MagRepack_init_sv.sqf"; // Repack your near empty clips
+[] execVM "addons\outlw_magRepack\MagRepack_init.sqf"; // Repack your near empty clips
 [] execVM "addons\laptop\init.sqf";		 // hack Laptop mission addon
 //[] execVM "addons\safezone\safezone.sqf"; //safezones temporarily disabled
 [] execVM "addons\vactions\functions.sqf"; //vehicle actions

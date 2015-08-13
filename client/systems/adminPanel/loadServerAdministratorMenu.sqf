@@ -27,7 +27,9 @@ if ([_uid, 3] call isAdmin) then {
 	                "Money",
 	                "Debug Menu",
 					"Object Search",
-	                "Toggle God-mode"
+	                "Toggle God-mode",
+					"Unstuck player",
+					"Toggle Invisible-mode"
 	];
 
 	{
