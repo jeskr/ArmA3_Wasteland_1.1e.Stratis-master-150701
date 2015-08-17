@@ -39,6 +39,10 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Added] Fast rope
+<br/> [Added] Uniform painter at General store
+<br/> [Upgraded] Some player classes gear has been upgraded
+<br/> --------------------------------------------------------------
 <br/> [Added] Group Size limited to 6 players
 <br/> [Fixed] Hackers missions gives 0.5% more
 <br/> [Added] Classes gear added

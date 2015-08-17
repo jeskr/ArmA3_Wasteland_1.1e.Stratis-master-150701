@@ -10,11 +10,11 @@
 			_player addMagazine "10Rnd_762x54_Mag";
 			_player addMagazine "10Rnd_762x54_Mag";
 			_player addWeapon "srifle_DMR_01_DMS_F";
-//			_player addItemtoBackpack "ClaymoreDirectionalMine_Remote_Mag";
-//			_player addItemtoBackpack "ClaymoreDirectionalMine_Remote_Mag";
+			_player addItemtoBackpack "ClaymoreDirectionalMine_Remote_Mag";
+			_player addItemtoBackpack "ClaymoreDirectionalMine_Remote_Mag";
 			_player addWeapon "hgun_Rook40_snds_F";
 			_player addMagazine "16Rnd_9x21_Mag";
-//			_player addWeapon "Rangefinder";
+			_player addWeapon "Rangefinder";
 			_player addItem "FirstAidKit";
 			_player addItem"FirstAidKit";
 						};
@@ -30,8 +30,8 @@
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addWeapon "arifle_MX_GL_Black_F";
 			_player addPrimaryWeaponItem "muzzle_snds_M";
-//			_player addItem "APERSBoundingMine_Range_Mag";
-//			_player addItem "APERSBoundingMine_Range_Mag";
+			_player addItem "APERSBoundingMine_Range_Mag";
+			_player addItem "APERSBoundingMine_Range_Mag";
 			_player addWeapon "hgun_ACPC2_snds_F";
 			_player addMagazine "9Rnd_45ACP_Mag";
 			_player addWeapon "Binoculars";
@@ -73,10 +73,10 @@
 			_player addMagazine "30Rnd_556x45_Stanag";
 			_player addMagazine "30Rnd_556x45_Stanag";
 			_player addWeapon "arifle_Mk20_MRCO_pointer_F";
-//			_player addPrimaryWeaponItem "optic_aco_smg";
-//			_player addItem "HandGrenade";
-//			_player addItem "HandGrenade";
-//			_player addWeapon "launch_RPG32_F";
+			_player addPrimaryWeaponItem "optic_aco_smg";
+			_player addItem "HandGrenade";
+			_player addItem "HandGrenade";
+			_player addWeapon "launch_RPG32_F";
 //			_player addMagazine "RPG32_F";
 //			_player addMagazine "RPG32_F";
 			_player addWeapon "hgun_Pistol_heavy_02_F";
@@ -98,7 +98,7 @@
 			_player addVest "V_HarnessOGL_gry";
 			_player forceAddUniform "U_I_G_resistanceLeader_F";
 			_player addBackpack "B_AssaultPack_cbr";
-//			_player addItemToVest "MineDetector";
+			_player addItemToVest "MineDetector";
 //			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
 //			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
 //			_player addItemtoBackpack "SatchelCharge_Remote_Mag";
@@ -127,7 +127,7 @@
 			_player addItemtoBackpack "APERSMine_Range_Mag";
 			_player addItemtoBackpack "ATMine_Range_Mag";
 			_player addItemtoBackpack "SLAMDirectionalMine_Wire_Mag";
-//			_player addItemtoBackpack "SLAMDirectionalMine_Wire_Mag";
+			_player addItemtoBackpack "SLAMDirectionalMine_Wire_Mag";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addMagazine "30Rnd_65x39_caseless_mag";
 			_player addWeapon "arifle_MXC_F";

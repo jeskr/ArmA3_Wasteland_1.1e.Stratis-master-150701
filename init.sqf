@@ -88,6 +88,7 @@ if (isServer) then
 [] execVM "addons\AF_Keypad\AF_KP_vars.sqf";			// Keypad for base locking
 [] execVM "addons\TearGas\tear_gas.sqf"; // teargass bitches !
 [] execVM "addons\APOC_Airdrop_Assistance\init.sqf";
+[] execVM "addons\zlt_fastrope\zlt_fastrope.sqf";     // Fastrope
 
 [] execVM "addons\scripts\intro.sqf";	// Welcome intro
 if (isServer) then {call compile preprocessFile "mapconfig\structures\initBuildings.sqf";}; // GID Positioning System

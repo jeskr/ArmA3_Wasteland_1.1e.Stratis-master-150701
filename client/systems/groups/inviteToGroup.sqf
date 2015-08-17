@@ -28,7 +28,7 @@ _hasInvite = false;
 diag_log "Invite to group: Before the checks";
 
 //LIMIT GROUP SIZE START
-#define MAX_GROUP_COUNT 6
+#define MAX_GROUP_COUNT 8
 
 _groupCount = count units player;
 
