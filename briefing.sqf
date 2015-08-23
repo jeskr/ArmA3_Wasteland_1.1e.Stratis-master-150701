@@ -23,7 +23,7 @@ player createDiaryRecord ["serverrules",
 <br/> 3.   NO blocking or building around Stores or ATM´s is allowed it will cause punishment up to permanent ban.
 <br/> 4.   NO VOIP IN GLOBAL. Use the channels or Teamspeak!
 <br/> 5.   ONLY ENGLISH or DANISH CHATTING IS ALLOWED IN GLOBAL.
-<br/> 6.   As Independant NO VOIP IN SIDECHAT is not allowed (Writing is allowed). Use the group channels or Teamspeak!
+<br/> 6.   As Independant NO VOIP IN SIDECHAT is allowed (Writing is allowed). Use the group channels or Teamspeak!
 <br/> 7.   Using or spamming with loud\long custom sound commands will cause punishment up to permanent ban.
 <br/> 8.   Keep bad language to a minimum. If you have a problem with another player, take it to direct.
 <br/> 9.   Support your team and its objectives. DONT steal from your team mates.
@@ -39,6 +39,7 @@ player createDiaryRecord ["changelog",
 [
 "Latest Updates",
 "
+<br/> [Fixed] Group Size limited to 8 players
 <br/> [Added] Fast rope
 <br/> [Added] Uniform painter at General store
 <br/> [Upgraded] Some player classes gear has been upgraded
